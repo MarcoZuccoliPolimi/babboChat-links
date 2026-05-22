@@ -1,1 +1,8 @@
-
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.example.babbochat",
+    "sha256_cert_fingerprints": ["5A:63:27:60:CE:7B:9C:C7:25:93:8D:5A:07:AD:66:5C:F2:7F:F9:60:42:F9:30:68:12:B9:97"]
+  }
+}]
